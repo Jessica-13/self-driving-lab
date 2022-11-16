@@ -1,0 +1,14 @@
+name: 4c16
+channels:
+    - conda-forge
+dependencies:
+    - flask-socketio
+    - eventlet
+    - Pillow
+    - numpy=1.21.6
+    - h5py
+    - tensorflow>=2.8
+    - keras
+    - python-engineio=3.13.2
+    - python-socketio=4.6.1
+
